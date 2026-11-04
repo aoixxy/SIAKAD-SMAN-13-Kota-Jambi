@@ -1,6 +1,6 @@
 # Aplikasi Akademik Sekolah Berbasis Web
 
-To access admin page. Example http://localhost/siakad
+To access admin page. Example https://enlarging-snort-sensitive.ngrok-free.dev/siakad (server ngrok)
 
 ## Tampilan Aplikasi
 ![ss](assets/ss1.png)
@@ -31,21 +31,10 @@ Feature
 - Print Jadwal Pelajaran
 - Export Data Siswa
 - Input Nilai Siswa
+- Send Nilai Via WA PDF
 - Export Data Nilai (e-Raport)
 
 Requitment
 ----------
 - PHP 5
-
-Login
-----------
-|    Level     | Username  | Password |
-|:------------:|:---------:|---------:|
-| Admin        |  zuhuri   | 123456   |
-| Wali Kelas   |  adam     | 123456   |
-| Guru         |  dita     | 123456   |
-| Keuangan     |  putri    | 123456   |
-
-Support
-----------
-subscribe : https://www.youtube.com/channel/UCzusH2ZfKMQ-r9yc-g7oVtQ
+- CodeIgniter 3
