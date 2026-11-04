@@ -1,6 +1,6 @@
 # Aplikasi Akademik Sekolah Berbasis Web
 
-To access admin page. Example http://localhost/pis_akademik
+To access admin page. Example http://localhost/siakad
 
 ## Tampilan Aplikasi
 ![ss](assets/ss1.png)
